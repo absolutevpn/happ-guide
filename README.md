@@ -165,7 +165,7 @@ lookup'ом выше. В Google Play для России настоящий Happ
 пересоздание ключа при живой подписке не требуется практически никогда.
 
 Про замены серверов на стороне ABSOLUTE мы пишем в канале
-[@absolutevn_news](https://t.me/absolutevn_news) — там же статус, если
+[@absolutevn_news](https://t.me/s/absolutevn_news) — там же статус, если
 что-то лежит.
 
 ## Что делать, если не работает
@@ -291,7 +291,7 @@ Mac, Windows и Android одновременно, отдельно за кажд
 знать об этом до того, как по ней перейдёт.
 
 Что меняется в гайде и что происходит с серверами — пишем в канале
-[@absolutevn_news](https://t.me/absolutevn_news).
+[@absolutevn_news](https://t.me/s/absolutevn_news).
 
 Всё остальное здесь — техническая документация по стороннему бесплатному
 приложению, к нашему сервису отношения не имеющая: описанное работает
@@ -308,5 +308,5 @@ Mac, Windows и Android одновременно, отдельно за кажд
 **ABSOLUTE VPN** · [сайт](https://absolutevn.com) ·
 [ключ для Happ](https://absolutevn.com/connect/happ) ·
 [тарифы](https://absolutevn.com/tariffs) ·
-[новости и статус серверов](https://t.me/absolutevn_news) ·
+[новости и статус серверов](https://t.me/s/absolutevn_news) ·
 [поддержка](https://absolutevn.com/contacts)
