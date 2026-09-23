@@ -86,8 +86,14 @@
 
 ## Happ не находится в App Store или Google Play
 
-Ищите точное название **Happ Proxy Utility** и проверяйте издателя.
-На Android приложение можно поставить из APK со
+**iPhone, iPad и Mac.** В российском App Store Happ нет, и поиском там
+найдутся только чужие приложения с похожими названиями. Ставьте по прямой
+ссылке на карточку **Happ Proxy Utility** от Flyfrog LLC. Если она
+не открывается, сначала смените регион аккаунта Apple:
+[пошаговая инструкция](https://absolutevn.com/devices/iphone/app-store).
+
+**Android.** Ищите точное название **Happ Proxy Utility** в Google Play и
+проверяйте издателя. Приложение можно поставить и из APK со
 [страницы релизов](https://github.com/Happ-proxy/happ-desktop/releases/latest)
 разработчика, если магазин недоступен.
 
