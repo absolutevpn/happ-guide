@@ -95,10 +95,11 @@
 На Mac — только версия из App Store (macOS 12.0 или новее): установочный
 файл с GitHub устарел и не подключается.
 
-**Android.** Ищите точное название **Happ Proxy Utility** в Google Play и
-проверяйте издателя. Приложение можно поставить и из APK со
-[страницы релизов](https://github.com/Happ-proxy/happ-desktop/releases/latest)
-разработчика, если магазин недоступен.
+**Android.** Happ есть в [Google Play](https://play.google.com/store/apps/details?id=com.happproxy),
+и из России он там доступен. Проверяйте название **Happ Proxy Utility**
+и разработчика. Если Google Play на устройстве нет, ставьте
+[Happ.apk](https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk)
+со страницы релизов разработчика на GitHub.
 
 ## Ничего из перечисленного не помогло
 
